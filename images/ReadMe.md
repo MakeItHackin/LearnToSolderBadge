@@ -1,1 +1,1 @@
-These are the images for the kit
+These are the images for the kit.
