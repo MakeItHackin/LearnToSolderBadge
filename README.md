@@ -29,4 +29,4 @@ A walkthrough video tutorial will be uploaded soon and the link will be sent out
 
 ## PURCHASE A CARD:
 https://www.etsy.com/listing/1245356078/  
-https://www.tindie.com/products//
+https://www.tindie.com/products/27224/
