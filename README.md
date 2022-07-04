@@ -22,7 +22,7 @@ https://www.tindie.com/products/27224/
 The only required tools in this tutorial are: a Soldering Iron, Solder, and Flush Cutters.  
 Optional tools include: Fume Extractor, Brass Sponge, Soldering Mat, Desoldering Wick and Pump, Electrical Tape, Tip Tinner, Flux, Pliers, and a Multimeter.  
 
-SOLDERING IRONS:  
+SOLDERING IRONS:  (affiliate links below help me produce content)
 Weller WE1010NA (Recommended for home/office use):  https://amzn.to/3OGO5ED  
 HAKKO FX888D (Recommended for home/office use):  https://amzn.to/3RbGFLa  
 TS100 (Recommended for portability):  https://amzn.to/3NHQ7Tm  
