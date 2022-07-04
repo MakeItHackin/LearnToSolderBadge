@@ -27,6 +27,6 @@ A walkthrough video tutorial will be uploaded soon and the link will be sent out
 
 ## YouTube Demonstration: TBD
 
-## PURCHASE A CARD:
+## PURCHASE A KIT:
 https://www.etsy.com/listing/1245356078/  
 https://www.tindie.com/products/27224/
