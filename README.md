@@ -8,8 +8,7 @@ The kit features a circuit board, components, and a lanyard so you can wear it a
 
 The circuit is known as an "Astable Multivibrator," which means that the Blue and Yellow LEDs will alternate flashing on and off.  The Green LED will turn on when the button is pressed.  The Red LED turns on when the power is on.  
 
-Kit Includes:  
-Circuit Board, Lanyard, LEDs (Red, Yellow, Blue, Green), Transistors, Capacitors, Resistors, Diode, Switch, Button, Battery Holders, Batteries, Sticker  
+Kit Includes: Circuit Board, Lanyard, LEDs (Red, Yellow, Blue, Green), Transistors, Capacitors, Resistors, Diode, Switch, Button, Battery Holders, Batteries, Sticker  
 
 A walkthrough video tutorial will be uploaded soon and the link will be sent out with the order.  
 
