@@ -10,15 +10,16 @@ The circuit is known as an "Astable Multivibrator," which means that the Blue an
 
 Kit Includes: Circuit Board, Lanyard, LEDs (Red, Yellow, Blue, Green), Transistors, Capacitors, Resistors, Diode, Switch, Button, Battery Holders, Batteries, Sticker  
 
-## YouTube Demonstration: TBD
+## YOUTUBE TUTORIAL / DEMONSTRATION: TBD
 
-## Instructions:  
+## INSTRUCTIONS:  
 Download and read the "LearnToSolderBadge_Instructions" document to follow along with the YouTube Tutorial.  
 
 ## PURCHASE A KIT:
 https://www.etsy.com/listing/1245356078/  
 https://www.tindie.com/products/27224/
 
+## TOOLS AND MATERIALS:  
 The only required tools in this tutorial are: a Soldering Iron, Solder, and Flush Cutters.  
 Optional tools include: Fume Extractor, Brass Sponge, Soldering Mat, Desoldering Wick and Pump, Electrical Tape, Tip Tinner, Flux, Pliers, and a Multimeter.  
 
