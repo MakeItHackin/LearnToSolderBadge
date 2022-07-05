@@ -12,6 +12,9 @@ Kit Includes: Circuit Board, Lanyard, LEDs (Red, Yellow, Blue, Green), Transisto
 
 ## YouTube Demonstration: TBD
 
+## Instructions:  
+Download and read the "LearnToSolderBadge_Instructions" document to follow along with the YouTube Tutorial.  
+
 ## PURCHASE A KIT:
 https://www.etsy.com/listing/1245356078/  
 https://www.tindie.com/products/27224/
