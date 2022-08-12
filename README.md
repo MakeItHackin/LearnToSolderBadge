@@ -1,5 +1,7 @@
 # LearnToSolderBadge
 
+THIS IS NOT THE DEF CON 30 VERSION, SEE OTHER REPOSITORIES FOR DEF CON 30 VERSION  
+
 Learn How to Solder Kit!  Watch the YouTube for a full step-by-step tutorial!  
 
 This electronics kit is a great project for those people who want to learn how to solder or already know how to solder!  
